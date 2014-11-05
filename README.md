@@ -1,7 +1,7 @@
 Test 2 by Brian
 =====
 
-Welcome to Brian's test 2 Repo
+Welcome to Brian's test Repo
 
 Download at own risk.
 
