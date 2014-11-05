@@ -1,4 +1,6 @@
-test2
+Test 2 by Brian
 =====
 
-test
+Welcome to Brian's test 2 Repo
+
+Download at own risk.
